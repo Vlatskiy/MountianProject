@@ -17,7 +17,7 @@
     "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.6.1",
     "babel-preset-stage-0": "^6.24.1",
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.27.10",
     "cross-env": "^5.1.4",
     "css-loader": "^0.28.7",
     "del": "^3.0.0",
@@ -51,8 +51,8 @@
     "not ie <= 8"
   ],
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.3",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "imports-loader": "^0.8.0",
     "jquery": "^3.3.1",
     "morgan": "^1.9.0",
